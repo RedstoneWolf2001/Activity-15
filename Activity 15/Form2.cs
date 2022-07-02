@@ -15,7 +15,7 @@ namespace Activity_15
         public LuckyNumber(int inputNum)
         {
             InitializeComponent();
-            ResultsLBL.Text = inputNum.ToString();
+            ResultsLBL.Text = inputNum.ToString(); // inputs the lucky number 
         }
     }
 }
